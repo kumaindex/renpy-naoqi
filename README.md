@@ -21,6 +21,7 @@ naoqi_bridge 丢在renpy的根目录或者game
 
 ----------
 在label start:可以开启关闭
+
     $ naoqi_tts.enabled = False
     "この台詞は読み上げられません。"
     
